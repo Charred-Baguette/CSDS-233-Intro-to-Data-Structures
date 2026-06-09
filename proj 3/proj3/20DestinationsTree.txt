@@ -1,0 +1,83 @@
+Would you like to go on a trip?
+Do you want to travel to a foreign country?
+Do you want to go to Asia?
+Do you want to visit Japan?
+Do you want a more 'modern' experince?
+Tokyo, Japan
+#
+#
+Osaka, Japan
+#
+#
+Do you want to visit Korea?
+Do you want to visit an Island?
+Jeju Island, Korea
+#
+#
+Soeul, Korea
+#
+#
+Do you want to visit a major cultural hub?
+Beijing, China
+#
+#
+Hong Kong, China
+#
+#
+Do you want to visit the UK?
+London, UK
+#
+#
+Do you want to go to Portugal?
+Lisbon, Portugal
+#
+#
+Do you want what many consider a romantic trip?
+Paris, France
+#
+#
+Camarague, France
+#
+#
+Do you want to visit a beach?
+Do you want to stay in mainland US?
+Would you like to go to Florida?
+Siesta Key, Florida
+#
+#
+Do you have an easy flight to Oregon?
+Portland, Oregon
+#
+#
+Laguna Beach, California
+#
+#
+Hawaii
+#
+#
+Do you want a very scenic experience?
+Would you prefer more hiking and backcountry over a city experience?
+Mount Blue Sky, Colorado
+#
+#
+Telluride, Colorado
+#
+#
+Do you want to do some cool mountain biking?
+Are you an experienced Mountain Biker?
+Slick Rock, Moab, Utah
+#
+#
+Steamboat, Colorado
+#
+#
+Do you want to go snow mobiling?
+Breckenridge, Colorado
+#
+#
+Vail, Colorado
+#
+#
+Have a great day!
+#
+#
